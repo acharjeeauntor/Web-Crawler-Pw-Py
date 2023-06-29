@@ -22,4 +22,4 @@ Web Site link: https://books.toscrape.com/ <br>
 
 ------------------
 ## Screenshort of Excel file:<br>
-<img width="615" alt="Screenshot 2023-06-16 at 10 43 38 AM" src="https://github.com/acharjeeauntor/Playwright_Py_Crawler_Scrapping/assets/38497405/fddda4eb-0673-4437-8e60-4361963950c3">
+<img width="1434" alt="Screenshot 2023-06-29 at 10 25 44 PM" src="https://github.com/acharjeeauntor/Web-Crawler-Pw-Py/assets/38497405/b5ed93b9-31f0-403f-87df-3d58bf2dd3a5">
